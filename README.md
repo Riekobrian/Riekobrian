@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Rieko Brian
 
 ## 🎓 Background
-Computer Science Graduate with expertise in data science, web development DevOps and infrastructure automation.
+Computer Science Graduate with expertise in data science, web development, DevOps and infrastructure automation.
 
 ## 💻 Technical Skills
 
@@ -55,7 +55,7 @@ Text classification model for sentiment analysis using natural language processi
 ### 🔍 Web Scraping Data Pipeline
 Data collection and processing pipeline for extracting structured information from websites.
 1. [View Project-Maridady](https://github.com/Riekobrian/scrapy/blob/main/craazy/main.py)
-2. [View Project-Maridady](https://github.com/Riekobrian/scrapy/blob/main/craazy/main.py)
+2. [View Project-kai](https://github.com/Riekobrian/scrapy/blob/main/craazy/main.py)
 3. [View Project-Maridady](https://github.com/Riekobrian/scrapy/blob/main/craazy/main.py)
 
 ## 📚 About Me
