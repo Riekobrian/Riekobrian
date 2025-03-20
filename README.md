@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Rieko Brian
 
 ## 🎓 Background
-Computer Science Graduate with expertise in data science, web development, and infrastructure automation.
+Computer Science Graduate with expertise in data science, web development DevOps and infrastructure automation.
 
 ## 💻 Technical Skills
 
@@ -36,32 +36,35 @@ Computer Science Graduate with expertise in data science, web development, and i
 ## 🏆 Certifications
 - Oracle Data Science Professional
 - Microsoft Azure Certifications
+- Hugging Face-Agents
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Assistant for Resume & Cover Letter Generation
 An agent-based application that assists in creating professional resumes and cover letters.
-[View Project](https://github.com/yourusername/project-link)
+[View Project]([https://github.com/yourusername/project-link](https://github.com/Riekobrian/AGENTS))
 
 ### 🐳 Containerized Application with Docker & Kubernetes
 A fully deployable application using Docker and Kubernetes for orchestration.
-[View Project](https://github.com/yourusername/project-link)
+[View Project]([https://github.com/yourusername/project-link](https://github.com/Riekobrian/kenya-gdp-analysis))
 
 ### 📊 NLP Sentiment Analysis
 Text classification model for sentiment analysis using natural language processing techniques.
-[View Project](https://github.com/yourusername/project-link)
+[View Project](https://github.com/GreatDeal-FIRE/Hate-speech-detection)
 
 ### 🔍 Web Scraping Data Pipeline
 Data collection and processing pipeline for extracting structured information from websites.
-[View Project](https://github.com/yourusername/project-link)
+1. [View Project-Maridady](https://github.com/Riekobrian/scrapy/blob/main/craazy/main.py)
+2. [View Project-Maridady](https://github.com/Riekobrian/scrapy/blob/main/craazy/main.py)
+3. [View Project-Maridady](https://github.com/Riekobrian/scrapy/blob/main/craazy/main.py)
 
 ## 📚 About Me
 I'm passionate about solving complex problems through data-driven approaches and innovative technologies. With a strong foundation in computer science and specialized expertise in data science, I continuously seek to expand my knowledge and skills.
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/rieko-brian-b4747b1b8/)
+- [Email](riekobrian@gmail.com)
 
 ---
 
-⭐️ From [YourUsername](https://github.com/yourusername)
+⭐️ From [Riekobrian](https://github.com/Riekobrian)
