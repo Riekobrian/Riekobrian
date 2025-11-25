@@ -10,6 +10,9 @@ Computer Science Graduate with expertise in data science, web development, DevOp
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Cypher](https://img.shields.io/badge/-Cypher-008CC1?style=flat&logo=neo4j&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
